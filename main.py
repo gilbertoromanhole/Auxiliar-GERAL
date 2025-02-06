@@ -1,1 +1,1 @@
-print("AI DENTU! 3D")
+print("AI DENTU! 3ddddddddddddddddddddddddddddddddddddddddD")
